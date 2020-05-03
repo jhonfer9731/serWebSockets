@@ -1,0 +1,28 @@
+{
+  "name": "serwsockets",
+  "version": "1.0.0",
+  "description": "servidor Web Sockets",
+  "main": "socket_server.js",
+  "scripts": {
+    "start": "node socket_server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonfer9731/serWebSockets.git"
+  },
+  "keywords": [
+    "webSockets",
+    "socket.io"
+  ],
+  "author": "Jhon Benavides",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonfer9731/serWebSockets/issues"
+  },
+  "homepage": "https://github.com/jhonfer9731/serWebSockets#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "socket.io": "^2.3.0"
+  }
+}
