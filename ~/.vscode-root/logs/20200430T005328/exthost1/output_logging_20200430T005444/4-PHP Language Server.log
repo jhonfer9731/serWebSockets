@@ -1,0 +1,42 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 12:54:44 AM] 17 files total
+[Info  - 12:54:44 AM] Indexing project for definitions and static references
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/home_user/dispositivos/index.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/home_user/templates/navigation_bar.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/home_user/index.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/IoTcon/index.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/cerrarsesion.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/profile.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/register.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/index.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/actualizar_contra.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/cambiarcontra.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/success.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/error.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/restablecer.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/verificacion.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/conexion_db.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/olvido_contra.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/login.php
+[Info  - 12:54:44 AM] Indexing project for dynamic references
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/home_user/dispositivos/index.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/home_user/templates/navigation_bar.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/home_user/index.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/IoTcon/index.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/cerrarsesion.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/profile.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/register.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/index.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/actualizar_contra.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/cambiarcontra.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/success.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/error.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/restablecer.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/verificacion.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/conexion_db.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/olvido_contra.php
+Parsing file:///opt/lampp/htdocs/webCourse/cursoPHPyoutube/todolist/login/login.php
+[Info  - 12:54:44 AM] 0 Packages
+[Info  - 12:54:44 AM] All 17 PHP files parsed in 0 seconds. 170 MiB allocated.
